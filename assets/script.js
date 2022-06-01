@@ -1,1 +1,1 @@
-alert ("Eu sou a nova branch pode me aceitar ?")
+alegrt ("Eu sou a nova branch pode me aceitar ?")
